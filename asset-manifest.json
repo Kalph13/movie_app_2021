@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/movie_app_2021/static/js/main.64b8586c.js",
+    "index.html": "/movie_app_2021/index.html",
+    "main.64b8586c.js.map": "/movie_app_2021/static/js/main.64b8586c.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.64b8586c.js"
+  ]
+}
